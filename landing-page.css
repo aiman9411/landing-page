@@ -29,10 +29,14 @@ img {
 
 main {
     text-align: center;
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
 }
 
 main h2 {
     margin-top: 15px;
+
 }
 
 form {
@@ -41,6 +45,7 @@ form {
     align-items: center;
     justify-content: center;
     text-align: center;
+    width: 1000px;
 }
 
 #email {
@@ -62,3 +67,40 @@ form {
     background-color: #d9730d;
     color: #ffffff; 
 }
+
+#container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;;
+}
+
+#features {
+    margin-top: 30px;
+}
+
+.points {
+    display: flex;
+}
+
+.fas {
+    color: #ff8c00;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    padding-right: 50px;
+    padding-top: 35px;
+}
+
+.fas.fa-th-large{
+    width: 70px;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+    height: 125px;
+    width: 1000px;
+}
+
