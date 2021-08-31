@@ -60,6 +60,5 @@ form {
 
 #submit:hover {
     background-color: #d9730d;
-    color: #ffffff;
-    transition-timing-function: ease-in;   
+    color: #ffffff; 
 }
