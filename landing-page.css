@@ -72,7 +72,7 @@ form {
 #container {
     max-width: 1000px;
     width: 100%;
-    margin: 0 auto;;
+    margin: 0 auto;
 }
 
 #features {
@@ -157,6 +157,7 @@ footer {
     margin-left: 90px;
     margin-right: 90px;
     background-color: #ddd;
+    border-radius: 5px;
 }
 
 footer > ul {
