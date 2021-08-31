@@ -104,6 +104,8 @@ form {
     width: 1000px;
 }
 
-#player {
-    margin: 0 auto;
+#content {
+    text-align: center;
+    padding-top: 60px;
 }
+
