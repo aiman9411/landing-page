@@ -117,7 +117,15 @@ form {
 
 .card {
     border: solid black 1px;
-    padding: 30px;
     width: 300px;
     text-align: center;
+}
+
+.card-title {
+    background-color: #ddd;
+    color: black;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
 }
