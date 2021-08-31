@@ -61,6 +61,7 @@ form {
     font-size: 15px;
     background-color: #f1c40f;
     border-style: none;
+    border-radius: 10px;
 }
 
 #submit:hover {
